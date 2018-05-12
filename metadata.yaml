@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39709'
     url: http://www.gutenberg.org/2009/agents/39709
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38913#Manuel-des-difficult-s-de-la-langue-fran-aise-adap--au-jeune--ge-et-suivi-d-un-Recueil-de-loc_
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2012-02-17'
 gutenberg_type: Text
